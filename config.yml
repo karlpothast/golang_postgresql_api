@@ -1,0 +1,10 @@
+# config
+
+cors_allowed_domains: "*"
+
+api_port: "3101"
+
+api_path: "./postgres_api"
+
+container_name: "postgresd"
+
